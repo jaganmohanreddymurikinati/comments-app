@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.bg-container {
+  padding-top: 50px;
+  background-color: white;
+  background-size: cover;
+}
+.comments-container {
+  padding: 10px;
+  padding-left: 40px;
+}
+
+.heading {
+  padding-bottom: 20px;
+}
+.name-container {
+  width: 250px;
+  border: 1px solid black;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.textarea-container {
+  padding-top: 10px;
+  width: 300px;
+  margin-top: 20px;
+}
+
+.comment-button {
+  background-color: #0b69ff;
+  color: white;
+  border-width: 0px;
+  padding: 10px;
+  border-radius: 10px;
+  width: 120px;
+  margin-top: 10px;
+}
+
+.list-container {
+  list-style-type: none;
+}
